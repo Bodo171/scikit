@@ -1,3 +1,9 @@
+[project]
+name = "scikit-learn"
+version = "0.23.2"
+description = ""
+authors = []
+
 [tool.setuptools]
 py-modules = []
 
