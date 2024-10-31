@@ -3,6 +3,7 @@ name = "scikit-learn"
 version = "0.23.2"
 description = ""
 authors = []
+dynamic = ["dependencies", "urls", "classifiers", "maintainers", "license", "requires-python", "readme", "optional-dependencies"]
 
 [tool.setuptools]
 py-modules = []
